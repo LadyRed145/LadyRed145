@@ -14,12 +14,11 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Natalia Alvarado**, currently studying Software Development  
-(**Analista Programador**) at **Duoc UC, Chile**.
+Hi! I'm **Natalia Alvarado**, a Software Development student at **Duoc UC, Chile**, currently completing the **Analista Programador** program.
 
 My main focus is **Backend Development, Cloud Computing and DevSecOps**, with a strong interest in software quality, maintainability and secure development.
 
-I mainly build applications with **Java and Spring Boot**, working with databases, containers, CI/CD pipelines and cloud platforms such as **AWS and Microsoft Azure**.
+I primarily build backend applications with **Java and Spring Boot**, working with databases, containers, CI/CD pipelines and cloud platforms such as **AWS and Microsoft Azure**.
 
 I enjoy understanding systems beyond simply making them work: how they behave, how they fail, how they can be secured, and how they can be improved.
 
@@ -35,6 +34,7 @@ I enjoy understanding systems beyond simply making them work: how they behave, h
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Batch"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/>
@@ -76,6 +76,7 @@ I enjoy understanding systems beyond simply making them work: how they behave, h
 <p>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Nikto-111111?style=for-the-badge&logoColor=white" alt="Nikto"/>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/>
   <img src="https://img.shields.io/badge/JaCoCo-C43B32?style=for-the-badge" alt="JaCoCo"/>
 </p>
@@ -133,23 +134,6 @@ Batch-processing system focused on **transaction processing, reconciliation and 
 - 📊 Observability and system monitoring
 - 🧩 Software architecture and maintainability
 - 🔐 Application security and secure-by-design practices
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=LadyRed145&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A227&text_color=E8E8EC&icon_color=A41623"
-    alt="LadyRed145 GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyRed145&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A227&text_color=E8E8EC"
-    alt="LadyRed145 Most Used Languages"
-  />
-</p>
 
 ---
 
