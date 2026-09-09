@@ -97,14 +97,6 @@ I enjoy understanding systems beyond simply making them work: how they behave, h
 
 ## 🚀 Featured Projects
 
-### 🎮 [NatGamez](https://github.com/LadyRed145/NatGamez)
-
-Responsive gaming catalog focused on **UI design, accessibility and cross-device compatibility**.
-
-`HTML` `CSS` `JavaScript` `Bootstrap` `GitHub Pages`
-
----
-
 ### ☁️ [LearningPlatformCloud](https://github.com/LadyRed145/LearningPlatformCloud_Grupo13)
 
 Cloud-oriented learning platform developed with **Spring Boot**, containerization and CI/CD, integrating services across **AWS and Azure**.
@@ -126,6 +118,14 @@ Backend system for dispatch-guide management with **messaging, persistence, secu
 Batch-processing system focused on **transaction processing, reconciliation and idempotent execution**.
 
 `Java` `Spring Batch` `PostgreSQL` `Docker` `Maven`
+
+---
+
+### 🎮 [NatGamez](https://github.com/LadyRed145/NatGamez)
+
+Responsive gaming catalog focused on **UI design, accessibility and cross-device compatibility**.
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `GitHub Pages`
 
 ---
 
